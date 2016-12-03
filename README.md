@@ -1,18 +1,19 @@
 # LeO
-LeO — *Legible, extendable, Open Source* — is a Progressive Web App, built with, or inspired by, sane concepts and awesome Open Source projects. 
+LeO — *Legible, extendable, Open Source* — is a [Progressive Web App](https://developers.google.com/web/progressive-web-apps/), built with, or inspired by, sane concepts and awesome Open Source projects. 
 
 Under the hood a "platform-agnostic CMS meta-framework", LeO is suited for quick and elegant production, cloud publishing and cloud distribution of:
 
  - online magazines and brochures
  - slides presentations 
  - any mini-website that can't afford to be "static only"
+<br>
 
-
-## 1. White Book
+## 1. LeO's White Book
 ###Technical goals
+Aim at maximum front-end modularity: LeO should accept any .js library you throw at it.
 
- - maximum front-end modularity: it should accept any .js library you throw at it
- - Platform ubiquitous and offline-first. It should produce custom builds for:
+###App distribution goals
+ Platform ubiquitous and offline-first. It should produce custom builds for:
 	 - Progressive Web App (by default)
 	 - iOS, Android, Windows Phone (through Ionic CLI)
 	 - Windows, OS X, Linux (through Electron API)
@@ -22,9 +23,10 @@ Under the hood a "platform-agnostic CMS meta-framework", LeO is suited for quick
  - use the Optimistic UI approach for all end user interactions
  -  give a restricted set of the best UI frameworks out there
 
+###Back-end goals
+Back-end data should use JSON format to be agnostic, and the crucial data (or the whole data) must be encapsulated in the app itself, for the best offline experience possible.
 
-
-
+<br>
 #2. Technologies
 
 ##Back-end
