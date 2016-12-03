@@ -14,9 +14,8 @@ Under the hood a "platform-agnostic CMS meta-framework", LeO is suited for quick
 
 ###Core goals
 
-**Maximum front-end modularity**. LeO should accept any front-end .js library you throw at it.<br>
-**Maximum back-end modularity**. LeO should not care about the server, the [REST](https://www.wikiwand.com/en/Representational_state_transfer) [API](https://www.wikiwand.com/en/Web_API) or the [CMS](https://www.wikiwand.com/en/Content_management_system) you are currently using.<br>
-The only hard dependency is for the app's content and preferences to be exportable in [JSON format](https://www.wikiwand.com/en/JSON).
+**Maximum front-end modularity:** LeO should accept any front-end .js library you throw at it.<br>
+**Maximum back-end modularity:** LeO should not care about the server, the [REST](https://www.wikiwand.com/en/Representational_state_transfer) [API](https://www.wikiwand.com/en/Web_API) or the [CMS](https://www.wikiwand.com/en/Content_management_system) you are currently using. The only hard dependency is for the app's content and preferences to be exportable in [JSON format](https://www.wikiwand.com/en/JSON).
 
 
 
