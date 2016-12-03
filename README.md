@@ -7,6 +7,7 @@ Under the hood a "platform-agnostic CMS meta-framework", LeO is suited for quick
  - slides presentations 
  - any mini-website that can't afford to be "static only"
 <br>
+<br>
 
 ## 1. LeO's White Book
 ###Technical goals
@@ -26,6 +27,7 @@ Aim at maximum front-end modularity: LeO should accept any .js library you throw
 ###Back-end goals
 Back-end data should use JSON format to be agnostic, and the crucial data (or the whole data) must be encapsulated in the app itself, for the best offline experience possible.
 
+<br>
 <br>
 #2. Technologies
 
