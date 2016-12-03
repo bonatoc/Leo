@@ -15,9 +15,10 @@ Aim at maximum front-end modularity: LeO should accept any .js library you throw
 
 ###App distribution goals
  Platform ubiquitous and offline-first. It should produce custom builds for:
-	 - Progressive Web App (by default)
-	 - iOS, Android, Windows Phone (through Ionic CLI)
-	 - Windows, OS X, Linux (through Electron API)
+	 
+- Progressive Web App (by default)
+- iOS, Android, Windows Phone (through Ionic CLI)
+- Windows, OS X, Linux (through Electron API)
 
 ###Front-End goals
  - free designers and developers without bleeding edge knowledge from other massively popular CMS systems
