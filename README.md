@@ -4,9 +4,8 @@ LeO — *Legible, extendable, Open Source* — is a [Progressive Web App](https:
 
 Under the hood a "platform-agnostic CMS meta-framework", LeO is suited for quick and elegant production, cloud publishing and cloud distribution of:
 
- - online magazines and brochures
+ - online B2B brochures
  - slides presentations 
- - any mini-website that can't afford to be "static only"
 <br>
 <br>
 
@@ -65,7 +64,7 @@ Back-end data should use JSON format to be agnostic, and the crucial data (or th
 
 <br>
 <br>
-#2. Technologies
+# 2. Technologies
 
 ## Back-end
 ### Firebase or any
