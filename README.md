@@ -64,7 +64,7 @@ Back-end data should use JSON format to be agnostic, and the crucial data (or th
 
 <br>
 <br>
-# 2. Technologies
+## 2. Technologies
 
 ## Back-end
 ### Firebase or any
